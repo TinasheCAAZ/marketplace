@@ -1,2 +1,2 @@
 # marketplace
-Batanai MArketplace
+Batanai Marketplace app
